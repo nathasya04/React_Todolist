@@ -1,70 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-11-15 215342](https://github.com/user-attachments/assets/7eadbc62-e709-4c91-93f7-7daf1aa6b6e6)
+![Screenshot 2024-11-15 215522](https://github.com/user-attachments/assets/965eb1bf-e8c4-4bc1-9c88-16657255b2c1)
+![Screenshot 2024-11-15 215619](https://github.com/user-attachments/assets/3bf882d5-d84d-4097-ba48-8c19e51ea189)
+![Screenshot 2024-11-15 215954](https://github.com/user-attachments/assets/292ae3af-8282-4f60-a7a5-ac1bf84f3f92)
+![Screenshot 2024-11-15 220536](https://github.com/user-attachments/assets/234b5674-dc2d-44a1-b728-bafc7a02defe)
+![Screenshot 2024-11-15 220938](https://github.com/user-attachments/assets/a16399d5-555d-4aa5-a2ce-434c28c263fc)
+![Screenshot 2024-11-15 215039](https://github.com/user-attachments/assets/740f2c5b-deb1-4bf0-81db-f5d0b92ccfc7)
+![Screenshot 2024-11-15 215047](https://github.com/user-attachments/assets/5525fd3e-252f-4ba8-a442-3aa86843e988)
+![Screenshot 2024-11-15 215145](https://github.com/user-attachments/assets/6856f536-b7fe-4e51-9ca4-3c25ba366331)
